@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
