@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhinayaabhi487/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/abhinayaabhi487/leetcode/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhinayaabhi487/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2652-sum-multiples](https://github.com/abhinayaabhi487/leetcode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
