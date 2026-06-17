@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhinayaabhi487/leetcode/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/abhinayaabhi487/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhinayaabhi487/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2652-sum-multiples](https://github.com/abhinayaabhi487/leetcode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
