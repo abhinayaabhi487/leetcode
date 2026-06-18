@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/abhinayaabhi487/leetcode/tree/master/0867-transpose-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/abhinayaabhi487/leetcode/tree/master/0867-transpose-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abhinayaabhi487/leetcode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/abhinayaabhi487/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
