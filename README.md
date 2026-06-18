@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinayaabhi487/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/abhinayaabhi487/leetcode/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinayaabhi487/leetcode/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhinayaabhi487/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
