@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinayaabhi487/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0219-contains-duplicate-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abhinayaabhi487/leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/abhinayaabhi487/leetcode/tree/master/0867-transpose-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
