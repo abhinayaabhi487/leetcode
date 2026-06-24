@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/abhinayaabhi487/leetcode/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/abhinayaabhi487/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/abhinayaabhi487/leetcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinayaabhi487/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhinayaabhi487/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhinayaabhi487/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhinayaabhi487/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/abhinayaabhi487/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/abhinayaabhi487/leetcode/tree/master/0796-rotate-string) |
 ## Simulation
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abhinayaabhi487/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhinayaabhi487/leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
