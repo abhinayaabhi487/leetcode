@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/abhinayaabhi487/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhinayaabhi487/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinayaabhi487/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/abhinayaabhi487/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/abhinayaabhi487/leetcode/tree/master/0912-sort-an-array) |
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/abhinayaabhi487/leetcode/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/abhinayaabhi487/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
